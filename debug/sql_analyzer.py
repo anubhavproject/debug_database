@@ -1,0 +1,1 @@
+class SQLAnalyzer:\n    def find_bottlenecks(self, query):\n        return 'High latency join detected'

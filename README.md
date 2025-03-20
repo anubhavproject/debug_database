@@ -1,0 +1,1 @@
+# SQL Debugger AI\nQuery optimization tool.
