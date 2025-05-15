@@ -1,0 +1,1 @@
+def suggest_index(query):\n    # AI-driven indexing suggestions\n    return 'CREATE INDEX idx_user ON users(email)'
