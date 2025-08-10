@@ -1,0 +1,1 @@
+from debug.optimizer import suggest_index\nprint(suggest_index('SELECT * FROM orders WHERE user_id = 5'))

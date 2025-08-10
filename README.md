@@ -1,1 +1,1 @@
-# SQL Debugger AI\nQuery optimization tool.
+# debug_database AI\n\nAI-powered SQL debugger and query optimizer designed to cut data processing time by identifying bottlenecks automatically.
